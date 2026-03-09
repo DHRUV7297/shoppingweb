@@ -13,7 +13,8 @@ function Home() {
             <h1 className="text-7xl font-extrabold text-gray-900 leading-tight">
               Brand New <br /> Collection
             </h1>
-
+            
+             
             <p className="text-gray-600 text-xl max-w-md">
               Mauris vitae ultricies leo integer malesuada tempor orci dapibus
               ultrices diam in arcu cursus euismod purus viverra accumsan.
